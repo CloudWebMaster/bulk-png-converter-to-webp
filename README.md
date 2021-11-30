@@ -9,10 +9,12 @@ sudo install webp
 and run this scripts in bash
 bash converter-webp.sh
 
+
 done
 
 # warning 
 
+run this script on folder u want convert
 this just convert png to webp
 
 thanks u
