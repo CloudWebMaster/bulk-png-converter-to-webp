@@ -15,6 +15,6 @@ done
 # warning 
 
 run this script on folder u want convert
-this just convert png to webp
+and this just convert png to webp
 
 thanks u
